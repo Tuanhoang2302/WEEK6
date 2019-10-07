@@ -23,6 +23,6 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person[name=?,address=?]";
+        return "Person[name=" + name + ",address=" + address" + "]";
     }
 }
