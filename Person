@@ -1,8 +1,8 @@
 import sun.dc.pr.Rasterizer;
 
 public class Person {
-    String name;
-    String address;
+    protected String name;
+    protected String address;
 
     public Person(String name, String address){
         this.name = name;
