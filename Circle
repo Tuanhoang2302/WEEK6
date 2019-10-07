@@ -1,7 +1,7 @@
 public class Circle {
     protected final static double PI = 3.14;
-    double radius;
-    String color;
+    protected double radius;
+    protected String color;
 
     public Circle(){
         radius = 1.0;
